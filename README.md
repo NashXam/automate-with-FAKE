@@ -12,3 +12,5 @@
 4. Install TeamCity
 5. Configure TC project with source control
 6. Configure TC to execute build scripts
+
+Not code.
